@@ -13,8 +13,9 @@
 - Then, merge the feature-branch into the main branch using a pull request.
 
 
+# Task 3: Resolving Conflicts
 
 - Create a new branch from the main branch.
 - Make changes to a file in both the main branch and your new branch.
 - Commit the changes to both branches, causing a conflict.
-
+- Resolve the conflict by manually editing the conflicting file, commit the changes, and push them to GitHub.
