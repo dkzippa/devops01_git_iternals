@@ -12,3 +12,6 @@
 - Make some changes to an existing file or create a new file, commit the changes, and push the branch to GitHub.
 - Then, merge the feature-branch into the main branch using a pull request.
 
+# Task 3: Resolving Conflicts
+- Resolve the conflict by manually editing the conflicting file, commit the changes, and push them to GitHub.
+
