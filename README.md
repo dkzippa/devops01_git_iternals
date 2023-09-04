@@ -12,3 +12,9 @@
 - Make some changes to an existing file or create a new file, commit the changes, and push the branch to GitHub.
 - Then, merge the feature-branch into the main branch using a pull request.
 
+
+
+- Create a new branch from the main branch.
+- Make changes to a file in both the main branch and your new branch.
+- Commit the changes to both branches, causing a conflict.
+
